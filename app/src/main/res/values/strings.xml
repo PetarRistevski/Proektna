@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Услужи.се</string>
+    <string name="baramUsluga">Потребна ми е \n услуга</string>
+    <string name="nudamUsluga">Сакам дa \n помогнам</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="OpisNaPotrebnaUsluga">Накратко опишете ја услугата која Ви е потребна...</string>
+    <string name="opisKratok">Опис на потребна услуга...</string>
+    <string name="MoznostZaPlakjanje">Дали сте во можност да платите за услугата или би сакале бесплатна услуга?</string>
+    <string name="cena">Цена?</string>
+    <string name="Zapocni">Започни</string>
+    <string name="tukasumbidejki">Тука сум бидејќи...</string>
+    <string name="title_activity_helper">Map</string>
+    <string name="Dobredojdovte">Добре дојдовте на УСЛУЖИ.СЕ </string>
+    <string name="Opis">Тука можете да: \n1. Побарате услуга (со или без надокнада) \n 2. Прифатите побарана услуга од некого \n3. Заработите (доколку за услугата која ја прифаќате е спремен да плати оној на кого му е потребна)</string>
+    <string name="OpisNabaranataUsluga">Опис на бараната услуга:</string>
+    <string name="spremendaPlati">За завршување на оваа услуга, корисникот е спремен да плати:</string>
+    <string name="Nazad">Назад</string>
+</resources>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "54292824494",
+    "firebase_url": "https://proektna-962f6.firebaseio.com",
+    "project_id": "proektna-962f6",
+    "storage_bucket": "proektna-962f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54292824494:android:cdda72adc848a417",
+        "android_client_info": {
+          "package_name": "ristevski.petar.pc.proektna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54292824494-b9d9dphccd6ki8ti824mvfg4qjh3blur.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "54292824494-b9d9dphccd6ki8ti824mvfg4qjh3blur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt-WwzlT0_OFdvAMqKXBBDyLq4m5Szq4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
